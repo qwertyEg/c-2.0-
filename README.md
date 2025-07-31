@@ -1,6 +1,3 @@
-
-
-```markdown
 # Задачи по C++ для практики
 
 **Рекомендация:** Лучше всего решать задачи в онлайн-компиляторе: [OnlineGDB C++ Compiler](https://www.onlinegdb.com/online_c++_compiler)
@@ -408,4 +405,3 @@ int main() {
 }
 ```
 </details>
-```
